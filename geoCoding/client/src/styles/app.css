@@ -1,0 +1,32 @@
+.mapContainer{
+    position: relative;
+    height:450px;
+}
+.legend h1{
+        border-bottom:2px solid #04acec;
+    }
+
+.markerDetails{
+    padding-top:20px;
+}
+.borderMarkerForm  {
+    border:1px solid #ccc;
+    padding:10px;   
+    border-radius:5px;
+    margin-bottom:20px;
+}
+.markerDetails .title{
+    font-size:20px;
+    color:#04acec;
+}
+.markerDetails *{
+    padding-bottom:10px;
+}
+.btn{
+    margin-right:10px;
+}
+
+.location-search-input{
+    width:60%;
+  
+}
